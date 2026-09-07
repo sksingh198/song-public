@@ -25,7 +25,7 @@ Then open **http://localhost:5173** in your browser.
 Windows Command Prompt (CMD):
 
 ```bat
-git clone [<your-repo-url>](https://github.com/sksingh198/song-public.git)
+git clone https://github.com/sksingh198/song-public.git
 cd song-public
 npm install
 npm run dev
