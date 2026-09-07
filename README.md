@@ -14,8 +14,8 @@ After you start the app on your PC:
 ## Run from GitHub on your PC (CMD)
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/sksingh198/song-public.git
+cd song-public
 npm install
 npm run dev
 ```
@@ -25,8 +25,8 @@ Then open **http://localhost:5173** in your browser.
 Windows Command Prompt (CMD):
 
 ```bat
-git clone <your-repo-url>
-cd <project-folder>
+git clone [<your-repo-url>](https://github.com/sksingh198/song-public.git)
+cd song-public
 npm install
 npm run dev
 ```
